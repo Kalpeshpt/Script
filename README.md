@@ -64,7 +64,7 @@ Query OK, 0 rows affected (0.00 sec)
 
 ## ⚙️ Installation 
 ```
-wget https://github.com/Kalpeshpt/Script/blob/main/bash.sh
+wget https://raw.githubusercontent.com/Kalpeshpt/Script/main/bash.sh
 ```
 ```
 chmod +x bash.sh
