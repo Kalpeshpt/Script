@@ -25,7 +25,7 @@ echo  "${Red} ██║██║ ╚████║██║     ╚████
 echo  "${Red} ╚═╝╚═╝  ╚═══╝╚═╝      ╚═════╝ ╚══════╝╚══════╝ ╚═════╝     ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝  ╚═╝${Color_Off}"
 
 
-echo "$Yellow \n Bash script to install an apache2, php, PHPMyAdmin, Mysql, DVWA, Nodejs,  OWASP Juice Shop. For Debian based systems... $Color_Off"
+echo "$Yellow \n Bash script for install an apache2, php, PHPMyAdmin, Mysql, DVWA, Nodejs,  OWASP Juice Shop. For Debian based systems... $Color_Off"
 echo "$Purple \n Written by @Kalpesh Patil. $Color_Off"
                                                                                                                     
 
