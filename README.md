@@ -1,6 +1,6 @@
 <h1 align=center>👨🏻‍💻 Vulnerable Pentesting Lab Environment Installation Script.</h1>
 
-<h2 align=left>☢ Description </h2>
+## ☢ Description 
 
 The purpose of this bash script is to automate the installation process of various important step which are useful in web penetration testing practice.This script saves a significant amount of time and effort when compared to manually installing.Any suggestions for improvement are always appreciated.
 
@@ -64,12 +64,12 @@ Query OK, 0 rows affected (0.00 sec)
 
 ## ⚙️ Installation 
 ```
-wget https://github.com/Kalpeshpt/Script/blob/main/Web-pentest-lab.py
+wget https://github.com/Kalpeshpt/Script/blob/main/Web-pentest-lab.sh
 ```
 ```
 chmod +x 
 ```
 ## Usage
 ```
-./Web-pentest-lab.py
+./Web-pentest-lab.sh
 ```
