@@ -64,12 +64,12 @@ Query OK, 0 rows affected (0.00 sec)
 
 ## ⚙️ Installation 
 ```
-wget https
+wget https://github.com/Kalpeshpt/Script/blob/main/Web-pentest-lab.py
 ```
 ```
 chmod +x 
 ```
 ## Usage
 ```
-./
+./Web-pentest-lab.py
 ```
