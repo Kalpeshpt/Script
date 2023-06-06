@@ -16,6 +16,12 @@ The purpose of this bash script is to automate the installation process of vario
   <li>OWASP Juice Shop</li>
 </ol>
 
+## After complete the installation of script
+
+<p> For DVWA Lab           --       http://127.0.0.1/DVWA </p>
+<p> For Juice-shop run cmd --       juice-shop  </p>
+<p> For Phpmyadmin          --       http://127.0.0.1/phpmyadmin/  </p>
+
 ## 🔐 Database setup  for DVWA
 <h2> Source of DVWA </h2>
 
